@@ -68,3 +68,54 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+// nodejs 
+    // mongodb 
+        // mongoose
+        // 27017
+    // sql server => mysql, mariadb, postgres
+        // sequelize, typeorm
+    // react 
+
+
+
+// Shared Hosting 
+// Dedicated hosting 
+    // cloud hosting
+
+
+
+// ubuntu/linux => install
+// node install 
+// // /var/www/html/dir  ===> root dir
+
+// domain/dir
+
+// app.js => server 
+
+
+// powershell, gitbash, putty
+ssh access 
+username: root
+password: password1234
+
+
+Runner CI/CD, Devops\
+
+    docker 
+
+usages of packages 
+    -> reputation of the package
+
+
+Social Media 
+    -> viber, whatsapp, messenger 
+    -> 9802111635 
+    -> sandesh.bhattarai79@gmail.com
+        - Sunday after 9
+            ->
+
+    -> Project submit 
+        -> Certification
+            -> MIS application 
